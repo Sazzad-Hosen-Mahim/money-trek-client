@@ -1,0 +1,18 @@
+.navItem {
+     color: rgb(93, 109, 255);
+}
+
+.navItem:hover {
+     color: white;
+}
+
+.btn-side {
+     background-color: rgb(55, 69, 253);
+     color: black;
+     border: none;
+}
+
+.btn-side:hover {
+     background-color: rgb(14, 5, 94);
+     color: white;
+}
