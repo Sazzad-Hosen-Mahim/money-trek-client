@@ -1,0 +1,13 @@
+.grow-container {
+     background-image: url("../../assets//grow/price-plan-background-icons.svg");
+}
+
+.image {
+     filter: grayscale(100%);
+     -webkit-filter: grayscale(100%);
+}
+
+.image:hover {
+     filter: none;
+     -webkit-filter: grayscale(0);
+}
